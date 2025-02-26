@@ -4,7 +4,7 @@ This project analyzes a supermarket sales dataset from January 2019 to March 201
 
 ## Dataset Information
 
-- **Source**: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/discussion?sort=hotness) from Kaggle
+- **Source**: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data) from Kaggle
 - **Time Period**: January 2019 - March 2019
 - **Attributes**:
   - Invoice ID
@@ -17,9 +17,10 @@ This project analyzes a supermarket sales dataset from January 2019 to March 201
   - Quantity
   - Tax
   - Total
-  - Date & Time
+  - Date
+  - Time
   - Payment Method
-  - COGS
+  - COGS (Cost of Goods Sold)
   - Gross Margin Percentage
   - Gross Income
   - Customer Rating
