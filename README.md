@@ -88,4 +88,4 @@ This project analyzes a supermarket sales dataset from January 2019 to March 201
     jupyter notebook
     ```
 
-4. Open the notebook `Supermarket_Sales_Analysis.ipynb` to explore the analysis.
+4. Open the notebook `assignment1.ipynb` to explore the analysis.
